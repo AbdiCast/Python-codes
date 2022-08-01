@@ -11,3 +11,5 @@ elif sorted(cadena1) == sorted(cadena2):
 else:
     print("No son Anagramas")
 # coding=utf-8
+
+#linea agregada
